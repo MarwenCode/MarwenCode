@@ -22,6 +22,11 @@ Skills: REACT / JavaScript/ Express JS/MongoDB/ HTML / CSS
 
 
 
+Languages and Tools:
+ css3 figma git html5 javascript  postman  react redux sass  typescript webpack xd
+
+
+
 
 
 
