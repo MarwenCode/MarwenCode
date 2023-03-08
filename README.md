@@ -9,7 +9,7 @@ I am a self taught developer frontEnd ( React JS) and BackEnd(Node & Express JS)
 Email : marwen.jdidi75@gmail.com
 Twitter : MarwenCode
 
-Skills: REACT / JavaScript/ Express JS/MongoDB/ HTML / CSS
+Skills: REACT / JavaScript/ Express JS /MongoDB /MySQL/ HTML / CSS
 
 - 📫 How to reach me: marwen-jdidi 
 
