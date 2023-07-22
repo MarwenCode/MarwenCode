@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Marwen
 #### React JS developer
-I am a self taught developer frontEnd ( React JS) and BackEnd(Node & Express JS) , MongoDB.
+I am a self taught developer frontEnd ( React JS) and BackEnd(Node & Express JS) ,MyQQL, MongoDB.
 
 
 
