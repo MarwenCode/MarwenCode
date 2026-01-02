@@ -17,9 +17,7 @@ Skills: REACT / JavaScript/ Express JS /MongoDB /MySQL/ HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarwenCode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marwen-jdidi-69668344/) 
 
 Portfolio: https://marwen-portfolio.onrender.com
-Youtube Demo-projects : https://www.youtube.com/watch?v=uFReP-cA2CQ&t
 
- 
 
 ![Profile views](https://gpvc.arturio.dev/MarwenCode)  
 
